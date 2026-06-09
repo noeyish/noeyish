@@ -28,15 +28,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 <br>
 
-## 📊 GitHub Stats
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=noeyish&show_icons=true&theme=one_dark_pro">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeyish&layout=compact&theme=one_dark_pro">
-</div>
-
-<br>
-
 ## 📫 Contact
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/noeyish)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:vvvsmile1313@gmail.com)
